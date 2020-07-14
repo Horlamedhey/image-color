@@ -1,0 +1,16 @@
+{
+  "name": "imageColor",
+  "version": "1.0.0",
+  "description": "Extract color from image",
+  "main": "index.js",
+  "repository": "https://gitlab.com/Horlamedhey/image-color.git",
+  "author": "AbdulGafar Olamide Ajao~variable<Gafarolamide.ajao@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next --port $PORT"
+  },
+  "dependencies": {
+    "colorthief": "^2.3.2"
+  }
+}
